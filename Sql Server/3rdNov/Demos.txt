@@ -1,0 +1,30 @@
+use Employee
+
+select * From sys.tables
+
+select * from emp
+-- implicit way to store null in columns
+insert into emp(id,department, salary, address) values
+(1,'HR',12000,'Delhi')
+select * from emp
+select * from emp
+insert into emp values(1, 'Ajay','HR', 11000,'Delhi',null)
+
+-- do not want to enter invalid values 
+-- want to apply some restrictions on the values 
+-- that we are entering in all columns of table
+-- Constraints : Restriction on values that we enter in the columns
+  -- Entity Integrity : Every Enity should be identified uniquely
+
+    -- Primary Key :  A key whose vakues is unique 
+    --Follows 2 rules
+	-- No duplicacy
+	-- not null
+
+
+
+
+
+
+
+

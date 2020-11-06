@@ -1,0 +1,43 @@
+           Assignment No - 6
+Employee Table
+
+id
+name not null
+address not null
+dept HR Accts Sales
+Basic Salary 
+
+exp
+da  
+hra
+pf
+Net Salary
+
+if exp > 10  
+da = 9 % of basic salary
+hra = 12 % of basic salary
+pf = 10000 
+
+
+if exp > 7 and < 10  
+da = 7.5 % of basic salary
+hra = 10 % of basic salary
+pf = 7000
+
+
+if exp <=7  
+da = 4 % of basic salary
+hra = 5 % of basic salary
+pf = 5000
+Create function to calculate all these values 
+
+
+1.Create a function to display details of users from Employee table
+
+
+2. Create a function to calculate Net Salaruy of employees
+
+3. Insert Record in table using Procedure
+
+4. Create a function to check a number for even or not
+

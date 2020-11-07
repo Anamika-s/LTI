@@ -72,7 +72,7 @@ Values (1, 'Germany', 0),
   SELECT * FROM SampleTable
 
 
-USE tempdb
+USE employeedb
 GO
  
 DECLARE @Counter INT , @MaxId INT, 

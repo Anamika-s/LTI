@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
            Assignment No 1 : C#
 
@@ -13,4 +14,21 @@ BEFORE STARTING YOUR ASSIGNMENT, EXPLORE STRUCTURE OF PROJECT THAT YOU HAVE CREA
 7.Display table of a number using all loops
 8.Display numbers from 100 to 5 with a gap of 3
 9.Declare some integer varibales, assign them some values and display them in one line
+=======
+
+           Assignment No 1 : C#
+
+BEFORE STARTING YOUR ASSIGNMENT, EXPLORE STRUCTURE OF PROJECT THAT YOU HAVE CREATED
+
+
+1. Display Hello Message
+2. Display result of Addition , subtraction , product , quotient of two numbers
+3. Display result of Addition , subtraction , product , quotient of two numbers depending upon choice (using if else / switch)
+4. Display your name 10 times
+5. Display all even numbers by using dowhile, while , for loop
+6. Display all odd numbers by using dowhile, while , for loop
+7.Display table of a number using all loops
+8.Display numbers from 100 to 5 with a gap of 3
+9.Declare some integer varibales, assign them some values and display them in one line
+>>>>>>> f2c3c11a60a7ad6104d444fe49ce4fa8e13746fb
 10. Declare some integer varibales, assign them some values and display them separate lines

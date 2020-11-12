@@ -1,0 +1,43 @@
+                Assignment No : 8
+Create a class named 'Member' having the following members:
+Data members
+1 - Name
+2 - Age
+3 - Phone number
+4 - Address
+5 - Salary
+It also has a method named 'printSalary' which prints the salary of the members.
+Two classes 'Employee' and 'Manager' inherits the 'Member' class. The 'Employee' and 'Manager' classes have data members 'specialization' and 'department' respectively. Now, assign name, age, phone number, address and salary to an employee and a manager by making an object of both of these classes and print the same.
+
+
+
+Telephone numbers are strings of digit characters, they are not integers.
+
+Consider for example:
+
+Expressing a telephone number in a different base would render it meaningless
+
+Adding or multiplying two telephone numbers together, or any math operation on a phone number, is meaningless. The result is not another telephone number (except by conicidence)
+
+Telephone numbers are intended to be entered "as-is" into a connected device.
+
+Telephone numbers may have leading zeroes.
+
+Manipulations of telephone numbers, such as adding an area code, are String operations.
+
+Storing the string version of the telephone number makes this clear and unambiguous.
+
+ Convert.ToInt16 > -65356 to 65356 
+   0909898765
+ 
+   91-98877665 
+   string Phonenum;
+
+
+
+
+
+
+
+
+

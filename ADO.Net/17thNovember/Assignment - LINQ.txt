@@ -1,0 +1,31 @@
+          Assignment - LINQ
+1. Perform LINQ Queries :
+
+class Employee
+ id 
+ name 
+ address
+ city
+ state
+ Salary
+
+Store at least 10 Records
+ 
+Write LINQ Queries 
+1. Get All Employees 
+2. Get Employees where state is Delhi
+3. Get Employees where salary is more than 12000
+4. Get Employees where salary is in between 9000 and 15000
+5. Get Employees where their name contains a
+6. Get Maximum Salary for all Employees
+7. Get Total Salary for all Employees
+8. Get Average Salary for all Employees
+9. Arrange all Employees based on salary
+10. Get only name and salary of all Employees 
+
+
+
+
+ 
+
+ 

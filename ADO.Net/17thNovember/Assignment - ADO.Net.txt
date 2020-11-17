@@ -1,0 +1,26 @@
+          Assignment - ADO.Net
+1. Perform CRUD operations using Stored Procedures 
+
+Table Customer
+ id primary key
+ name 
+ address
+ city
+ state
+
+ Create procedures for every operation
+ 
+ GetAllCustomers > which will return all Customers
+
+ InsertCustomer > which will insert record of Customer. It should print a Message , This ID already exists if someone tries to insert record with existing ID
+
+UpdateCustomer > Provide ID and change address , city, state 
+
+DeleteCustomer > Provide ID , delete record
+
+GetCustomerByID > Provide ID and Get all Details 
+ 
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+Disconnected Architecture
+Case studies : 
+LINQ : Database 
+Properties in a program
+Delegates

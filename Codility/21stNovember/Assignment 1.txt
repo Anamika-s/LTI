@@ -1,0 +1,51 @@
+Find out Time complexity of following:
+
+1. Loop
+
+for i=1;i<=n;i++)
+{
+ some statements
+}
+
+2. Nested Loop
+(for i=1;i<=n;i++)
+{
+for(j-1;j<=n;j++)
+{
+{ some statements
+}
+}
+
+3. Consecutive Statements
+
+a=a+b
+(for i=1;i<=n;i++)
+{
+ some statements
+}
+(for i=1;i<=n;i++)
+{
+ some statements
+}
+
+4. if-else
+
+Assume if contains 1 loop
+else contains outer - inner loop
+
+if(condition)
+(for i=1;i<=n;i++)
+{
+ some statements
+}
+else
+{
+(for i=1;i<=n;i++)
+{
+for(j-1;j<=n;j++)
+{
+{ some statements
+}
+}
+}
+

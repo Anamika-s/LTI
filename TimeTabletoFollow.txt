@@ -1,0 +1,36 @@
+
+Monday 
+
+Iterations & Arrays
+ Iteration techniques for arrays and collections
+ Solving coding challenges on Arrays
+ Time Complexity
+ Revisiting Big-O notations
+ Writing efficient algorithms to improve performance
+
+
+Tuesday
+Counting Elements
+o Understanding counting of elements algorithm
+o Using this technique for solving various problems
+
+Wednesday
+Prefix Sums
+o Understanding prefix sum algorithm
+o Understanding suffix sum algorithm
+o Using these techniques for solving various problems
+
+Thursday
+Sorting
+o Revisiting Sorting algorithms
+o .NET support for sorting
+o Solving problems which involves sorting of data
+
+Friday
+Stacks and Queues
+o Understanding data structures like Stacks and Queues
+o Difference between LIFO and FIFO
+o Using these techniques for solving various problems
+
+Monday
+Introduction to Greedy and Dynamic Programming techniques

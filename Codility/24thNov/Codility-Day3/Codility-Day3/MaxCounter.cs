@@ -23,6 +23,9 @@ namespace Codility_Day3
 					else
 					{
 						var v = counters[n - 1];
+					int x = (counters[n - 1] = Math.Max(v, min) + 1);
+                    Console.WriteLine(x);
+				//	Console.WriteLine((counters[n - 1] = Math.Max(v, min) + 1));
 						if ((counters[n - 1] = Math.Max(v, min) + 1) > max)
 							max = counters[n - 1];
 					}

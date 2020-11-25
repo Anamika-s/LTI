@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Codility_Day3
 {
@@ -16,6 +14,8 @@ namespace Codility_Day3
         }
 		public static int solution(int[] A)
 		{
+			int[] a = new int[10];
+			a.Contains(2);
 
 			int min = 1;
 		HashSet<int> numbers = new HashSet<int>();

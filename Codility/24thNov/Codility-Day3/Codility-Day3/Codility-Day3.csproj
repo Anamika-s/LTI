@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Codility_Day3.MaxCounter</StartupObject>
+    <StartupObject>Codility_Day3.PermCheck.Soution</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

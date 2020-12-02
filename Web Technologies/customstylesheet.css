@@ -1,0 +1,24 @@
+﻿p {
+    width: 500px;
+    border-style: double;
+    border-color: yellow;
+}
+
+#id1 {
+    width: 500px;
+    border-style: double;
+    border-color: blue;
+}
+
+.p2 {
+    width: 500px;
+    border-style: dotted;
+    border-color: red;
+}
+body{
+    background-image: url('Images/Penguins.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}

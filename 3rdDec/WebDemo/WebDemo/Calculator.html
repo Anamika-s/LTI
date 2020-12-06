@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+    <link href="CalcStyleSheet.css" rel="stylesheet" />
+    <script src="CalcJS.js"></script>
+ </head>
+<body>
+    <form class="calc">
+        <input type="text" id="text1" value="numberA" /><br />
+        <input type="text" id="text2" value="numberB" /><br />
+        <input type="text" id="text3" value="Result" />
+        <div class="button">
+            <input type="button" onclick="calculate('+')" value="+"/>
+            <input type="button"onclick="calculate('-')" value="-"/><br />
+            <input type="button" onclick="calculate('/')" value="/"/>
+            <input type="button" onclick="calculate('*')" value="*"/>
+            <button onclick="window.close()"> Close </button>
+        </div>
+        <input type="reset" value="Reset" onclick="clear()" />
+    </form>
+</body>
+</html>

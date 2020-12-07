@@ -1,0 +1,26 @@
+             Assignment No 1 
+           
+1. Create a Component with Name About Us 
+Use ng g c for this
+
+ Add 1 Heading
+ About Us  (Green Color)
+ Add 3 paragraphs
+
+ All the paragraphs should be in blue color
+ The paragraphs should be in a solid border 
+ Main page should be in gray color
+ Use separate files for style & HTML content
+
+2. Create a Component with Name Contact Us 
+ Add file for this
+ Add 1 Heading
+ Contact Us  (Green Color)
+ Add 1 paragraphs
+
+ All the paragraphs should be in red color
+ The paragraphs should be in a yellow dotted 3 px 
+ Main page should be in gray color
+
+ Use same file for style & HTML content
+  
